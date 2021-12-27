@@ -1,0 +1,48 @@
+
+   
+.header {
+    font-family: Verdana, sans-serif;
+    background-color: blanchedalmond;
+    color: lightcoral;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.recipe {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+
+.block {
+    display: block;
+    margin:auto;
+    border-radius: 15px;
+    width: min(50%, 1000px);
+}
+
+#description {
+    margin-top: 2rem;
+    height: auto;
+    border: 5px solid lightcoral;
+    text-align: left;
+    border-radius: 25px;
+    background-color: blanchedalmond;
+    color: lightcoral;
+    font-family: Verdana, sans-serif;
+    text-align:center;
+    font-size: 16px;
+}
+.subheader {
+font-size: 30px;
+}
+
+#alltext {
+    color: lightcoral;
+    font-family: Verdana, sans-serif;
+}
